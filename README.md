@@ -24,7 +24,7 @@ Quelques exercices de révision sur l'utilisation de git
 1. Sur la même branche créer deux fichier nommés test1.py et test2.py
 2. Ajouter les deux fichiers au staging avec git add (sans les commit)
 3. Vous vous rendez compte que vous ne voulez pas commiter test2.py.  
-À l'aide de git reset HEAD nom_ficher enlever test2.py du stagging
+À l'aide de `git reset HEAD nom_ficher` enlever test2.py du stagging
 4. commit test1.py avec le message que vous voulez
 
 
