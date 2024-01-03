@@ -95,7 +95,7 @@ Mais quand on est content d'une modification effectuée sur une branche on veut 
 2. Fusionner la branche où vous aviez fait les modifications dans master à l'aide de git merge
 3. Vérifier que les modifications sont bien intégrées dans master
 4. Push vers le repository distant
-5. Lire [cette doc](https://git-scm.com/book/fr/v1/Les-branches-avec-Git-Rebaser)
+5. Lire [cette doc](https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Rebaser)
 
 
 
